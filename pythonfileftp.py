@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # encoding: utf-8
 # Developer: Lenin Tarrillo (lenin.tarrillo.v@gmail.com)
-# recorrer loop through the files on the ftp server and write a csv file with the names and addresses of the large files (filterSize)
+# Loop through the files on the ftp server and write a csv file with the names and addresses of the large files (filterSize)
+#SPDX-Licence-Identifier: MIT
 
 import sys
 import os
