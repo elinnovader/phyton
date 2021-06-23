@@ -1,8 +1,6 @@
-# phyton
-proyectos de phyton
+# Python
+Small Open Projects in Phyton
+Lenin Tarrillo
+Lenin.tarrillo.v@gmail.com
+https://www.linkedin.com/in/lenintv/
 
-Este es un mensaje esscrito en el server 
-
-This message was written on local repository, It's a practice of GitHub
-
-third line add for practice of GitHub
